@@ -1,9 +1,9 @@
 <!DOCTYPE html><html>
 <head>
 	<title>Login-Slider-Page</title>
-  <script src="./js/md5.js"></script>
+  <script src="md5.js"></script>
 	<script type="text/javascript" src="code.js"></script>
-    <link rel="stylesheet" href="styles.css" >	
+    <link rel="stylesheet" type="text/css" href="styles.css" >	
     
 
   </head>
