@@ -2,8 +2,8 @@
 <head>
 	<title>Login-Slider-Page</title>
   <script src="./js/md5.js"></script>
-	<script type="text/javascript" src="./js/code.js"></script>
-    <link rel="stylesheet" href="./css/styles.css" >	
+	<script type="text/javascript" src="code.js"></script>
+    <link rel="stylesheet" href="styles.css" >	
     
 
   </head>
