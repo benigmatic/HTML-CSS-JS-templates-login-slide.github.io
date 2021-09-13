@@ -26,9 +26,7 @@ p{
   height:100%;
   width: 100%;
   position:absolute;
-  background-image: url(../images/background.jpg);
-  background-position:center;
-  background-size:cover;
+  background-color:coral;
  
 }
 .form{
